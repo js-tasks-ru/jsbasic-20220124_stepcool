@@ -6,7 +6,7 @@ function factorial(n) {
     for (let i = n; i >= 1; i--) {
       answer = answer * i;
   }
-  return answer;
+    return answer;
   }
 }
 let n = 4;
